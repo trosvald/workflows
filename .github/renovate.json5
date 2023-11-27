@@ -4,7 +4,7 @@
     "github>trosvald/renovate-config:automerge-github-actions",
   ],
   platform: "github",
-  username: "trosvald[bot]",
-  gitAuthor: "trosvald <647255+trosvald[bot]@users.noreply.github.com>",
+  username: "monosense-arc[bot]",
+  gitAuthor: "monosense-arc <647255+monosense-arc[bot]@users.noreply.github.com>",
   repositories: ["trosvald/workflows"],
 }
